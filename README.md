@@ -7,14 +7,9 @@ If port 80 (HTTP) is detected, it automatically runs Gobuster for hidden file/di
 
 Performs an in-depth scan (-sC -sV) on detected open ports.
 
-📦 Features
-✔ Quick scan of the top 1000 ports
-✔ Open port detection
-✔ Service and script scanning (-sC -sV)
-✔ Automatic web enumeration with Gobuster
-✔ Terminal-displayed report (or exportable)
-
 🛠️ Requirements
+
+Xterm installed (apt install xterm)
 
 Nmap installed (apt install nmap)
 
