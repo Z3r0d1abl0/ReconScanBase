@@ -15,7 +15,6 @@ Performs an in-depth scan (-sC -sV) on detected open ports.
 ✔ Terminal-displayed report (or exportable)
 
 🛠️ Requirements
-Python 3
 
 Nmap installed (apt install nmap)
 
